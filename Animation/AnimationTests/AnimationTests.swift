@@ -1,15 +1,15 @@
 //
-//  Database_Tests.swift
-//  Database!Tests
+//  AnimationTests.swift
+//  AnimationTests
 //
-//  Created by Bo Yan on 11/18/19.
+//  Created by Bo Yan on 10/11/19.
 //  Copyright © 2019 Bo Yan. All rights reserved.
 //
 
 import XCTest
-@testable import Database_
+@testable import Animation
 
-class Database_Tests: XCTestCase {
+class AnimationTests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.
